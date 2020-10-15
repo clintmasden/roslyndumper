@@ -9,9 +9,9 @@ A half-baked .NET Standard/C# roslyn exporter for objects.
 #### A half-baked implementation:
 This was originally created for the replacement of another abandoned object exporter. It was critical to export to vb.net/c# with the same export. This was never realized yet has the foundation for you to review and to get a few ideas. 
 
-Since then Thomas created a great object dumper which is highly recommended if you’re looking for a complete solution.
+Since then Thomas created a great object dumper which is highly recommended if youâ€™re looking for a complete solution.
 
-#### Other issues and addtional information:
+#### Other issues and additional information:
 + The source is not issue/bug free.
 + Only a few of the functional tests pass (based on thomas's repo). 
 + VB.NET source can be created by implementing the VB.NET workspace or by leveraging [Code Converter](https://github.com/icsharpcode/CodeConverter "code converter").
